@@ -3,20 +3,20 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/pnpm-%3E%3D8.7.0-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D18.17.1-blue.svg" />
-  <a href="https://github.com/Kaaaaazuya/next13-template#readme" target="_blank">
+  <a href="https://github.com/Kaaaaazuya/travel-map#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/Kaaaaazuya/next13-template/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/Kaaaaazuya/travel-map/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Kaaaaazuya/next13-template/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/Kaaaaazuya/travel-map/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/Kaaaaazuya/next13-template" />
   </a>
 </p>
 
-> Next.js のテンプレート
+> TravelMap
 
-### 🏠 [Homepage](https://github.com/Kaaaaazuya/next13-template#readme)
+### 🏠 [Homepage](https://github.com/Kaaaaazuya/travel-map#readme)
 
 ## Prerequisites
 
